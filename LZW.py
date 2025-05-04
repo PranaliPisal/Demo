@@ -129,3 +129,4 @@ Button(root, text="Simulate", command=compute_pattern).grid(row=4, column=0, col
 root.mainloop()
 Hello
 Hi
+Pranali 
