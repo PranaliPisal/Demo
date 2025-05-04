@@ -127,3 +127,4 @@ entry_amps.grid(row=3, column=1)
 Button(root, text="Simulate", command=compute_pattern).grid(row=4, column=0, columnspan=2, pady=10)
 
 root.mainloop()
+Hello
